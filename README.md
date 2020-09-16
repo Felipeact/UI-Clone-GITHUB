@@ -4,7 +4,13 @@ Trainig UI with React Js and typescript
 
 ## 🚀 Starting
 
-Desktop and mobile GIF
+Desktop GIF 
+
+<img src="https://github.com/Felipeact/UI-Clone-GITHUB/blob/master/Desktopgif.gif" width="50%" height="50%">
+
+Mobile GIF
+
+<img src="https://github.com/Felipeact/UI-Clone-GITHUB/blob/master/Mobilegif.gif" width="40%" height="40%">
 
 ### 📋 What do you need!
 
